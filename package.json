@@ -1,0 +1,27 @@
+{
+  "name": "online-status",
+  "version": "1.0.0",
+  "description": "This package tell you whether you're connected to the internet or not.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asharalikhan4/online-status-package.git"
+  },
+  "keywords": [
+    "online-status",
+    "offline-status",
+    "isActive"
+  ],
+  "author": "Ashar Ali Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://www.github.com/AsharAliKhan4/online-status-package/issues"
+  },
+  "homepage": "https://www.github.com/AsharAliKhan4/online-status-package#readme",
+  "devDependencies": {
+    "react": "^18.2.0"
+  }
+}
